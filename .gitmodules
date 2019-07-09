@@ -1,0 +1,3 @@
+[submodule "beetroot"]
+	path = beetroot
+	url = https://github.com/beetroot-project/beetroot.git
